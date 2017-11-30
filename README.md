@@ -22,3 +22,6 @@ In the preview image above, the iteration used in that showcase has multiple fla
 Here is a preview of my current developmental processes, using Trello to keep track of development.
 
 ![Preview of Development](https://cdn.discordapp.com/attachments/334011383140188161/385696791376691200/unknown.png);
+
+Upon completion, I intend to release a stable executable for people to download and utilise themselves if they so desire. 
+I have intentions to constantly update this software and add evermore algorithms. Once I have finished development based on Sorting Algorithms, I wish to incorporate other algorithms too such as Minimum Spanning Tree and more!
